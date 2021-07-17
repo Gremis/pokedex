@@ -8,9 +8,12 @@ Nome dos integrantes:
 Link do Surge: www.link.com.br
 
 O que funciona:
-- Item 1
-- Item 2
+- Lista Pokemons
+- Guardar / Remover Pokemons na Pokedex
+- Detalhes Pokemon
+- Batalha de 2 pokemons
 
 O que não funciona: 
-- Item 3
-- Item 4
+- Falta responsividade
+
+Link do surge: https://pokedex-time-gremis.surge.sh/
