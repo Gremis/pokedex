@@ -11,6 +11,7 @@ import {
 } from "./Styled";
 import axios from "axios";
 import { BASE_URL } from "../../constants/url";
+import { goToPokemonDetailsPage, goToHomePage } from "../../routes/Coordinator";
 
 const PokemonBattlePage = () => {
   const history = useHistory();
@@ -70,7 +71,7 @@ const PokemonBattlePage = () => {
     <>
       <Header
         title={"Batalha Pokemon"}
-        ControllerButtonMain={() => history.goBack()}
+        ControllerButtonMain={() => goToHomePage(history)}
         ControllerButtonSecond
       />
       <DetailPageContainer>
