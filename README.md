@@ -7,7 +7,7 @@
 - [Juliana Moraes](https://github.com/jhmoraes)
 - [Gremis Tovar](https://github.com/Gremis)
 
-Link do Surge: https://projeto-pokedex.surge.sh/
+Link do Surge: https://pokedex-time-gremis.surge.sh/
 
 ## ⚙️ O que funciona:
 - Permite visualizar os Pokémons da [PokeAPI](https://pokeapi.co/)
