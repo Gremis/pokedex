@@ -33,10 +33,10 @@ Link do Surge: https://projeto-pokedex.surge.sh/
 Clone este repositório em sua máquina:
 
 ```bash
-$ git clone https://github.com/future4code/munoz-pokedex2.git
+$ git clone https://github.com/Gremis/pokedex.git
 ```
 
-cd `munoz-pokedex2` e rode:
+cd `pokedex` e rode:
 
 ```bash
 npm install
