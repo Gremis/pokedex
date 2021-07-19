@@ -13,11 +13,11 @@ Link do Surge: https://projeto-pokedex.surge.sh/
 - Permite visualizar os Pokémons da [PokeAPI](https://pokeapi.co/)
 - Paginação feita com 29 pokémons por página
 - Permite ao usuário que adicione e remova pokémons da sua pokédex
-- Batalhas com pokémons adicionados à sua pokédex (adversário escolhido aleatóriamente)
-- Ataques e defesas do pokémon e do adversário medidos pelos dados fornecidos pelo stat de cada um
-## ⚙️ O que não funciona
-- Ataque aleatório do rival é sempre selecionado o mesmo (random não funcionou)
+- Batalhas com pokémons adicionados à sua pokédex
 
+## ⚙️ O que não funciona
+- Responsividade
+- 
 ## ⚙️ Tecnologias Usadas:
 - CSS3
 - JavaScript
@@ -73,15 +73,6 @@ Tela de detalhes
 Funcionamento Geral
 
 ![](public/funcionamento.gif)
-
-Funcionamento da Batalhas Pokemon
-
-![](public/batalha.gif)
-
-Funcionamento Responsivo
-
-![](public/responsivo.gif)
-
 
 
 
